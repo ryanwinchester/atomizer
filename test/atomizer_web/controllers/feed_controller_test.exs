@@ -74,7 +74,7 @@ defmodule AtomizerWeb.FeedControllerTest do
 
       <entry>
         <title>Episode 4 - Emergency Family Meeting</title>
-        <link rel="alternate" href="https://funimation.com/shows/mushoku-tensei-jobless-reincarnation/emergency-family-meeting/simulcast"/>
+        <link href="https://funimation.com/shows/mushoku-tensei-jobless-reincarnation/emergency-family-meeting/simulcast"/>
         <id>https://funimation.com/shows/mushoku-tensei-jobless-reincarnation/emergency-family-meeting/simulcast</id>
         <content type="html">
           &lt;img src=&quot;https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/2315892/Japanese/2315892_Japanese_KeyArt-OfficialVideoImage_e7c043d4-1d89-4164-a375-ea78532be644.jpg&quot; class=&quot;webfeedsFeaturedVisual&quot; style=&quot;width:100%;display:block;&quot;&gt;\n&lt;p&gt;The Greyrat family is overjoyed when Zenith announces that she&apos;s pregnant with a second child, but the mood takes a dour turn when Lilia reveals that she is also pregnant and Paul is the father. Will this be the end of Rudy&apos;s happy family?&lt;/p&gt;
@@ -86,7 +86,7 @@ defmodule AtomizerWeb.FeedControllerTest do
 
       <entry>
         <title>Episode 3 - A Friend</title>
-        <link rel="alternate" href="https://funimation.com/shows/mushoku-tensei-jobless-reincarnation/a-friend/simulcast"/>
+        <link href="https://funimation.com/shows/mushoku-tensei-jobless-reincarnation/a-friend/simulcast"/>
         <id>https://funimation.com/shows/mushoku-tensei-jobless-reincarnation/a-friend/simulcast</id>
         <content type="html">
           &lt;img src=&quot;https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/2315890/Japanese/2315890_Japanese_KeyArt-OfficialVideoImage_f1cd02a3-46e8-415d-b93b-ea5507da4630.jpg&quot; class=&quot;webfeedsFeaturedVisual&quot; style=&quot;width:100%;display:block;&quot;&gt;\n&lt;p&gt;Rudy begins to explore the village and rescues a green-haired child from a group of bullies. The two grow close practicing magic, but is there more to Rudy&apos;s new friend than he thinks?&lt;/p&gt;
@@ -98,7 +98,7 @@ defmodule AtomizerWeb.FeedControllerTest do
 
       <entry>
         <title>Episode 2 - Master</title>
-        <link rel="alternate" href="https://funimation.com/shows/mushoku-tensei-jobless-reincarnation/master/simulcast"/>
+        <link href="https://funimation.com/shows/mushoku-tensei-jobless-reincarnation/master/simulcast"/>
         <id>https://funimation.com/shows/mushoku-tensei-jobless-reincarnation/master/simulcast</id>
         <content type="html">
           &lt;img src=&quot;https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/2315882/Japanese/2315882_Japanese_KeyArt-OfficialVideoImage_c25e5c00-d75f-4596-914c-8b54621eeda8.jpg&quot; class=&quot;webfeedsFeaturedVisual&quot; style=&quot;width:100%;display:block;&quot;&gt;\n&lt;p&gt;Rudy begins training with his new magic tutor and learning swordsmanship from his father. He makes rapid progress, but traumatic memories from his past life leave him to afraid to go outside. Is his second chance already doomed to failure?&lt;/p&gt;
@@ -110,7 +110,7 @@ defmodule AtomizerWeb.FeedControllerTest do
 
       <entry>
         <title>Episode 1 - Jobless Reincarnation</title>
-        <link rel="alternate" href="https://funimation.com/shows/mushoku-tensei-jobless-reincarnation/jobless-reincarnation/simulcast"/>
+        <link href="https://funimation.com/shows/mushoku-tensei-jobless-reincarnation/jobless-reincarnation/simulcast"/>
         <id>https://funimation.com/shows/mushoku-tensei-jobless-reincarnation/jobless-reincarnation/simulcast</id>
         <content type="html">
           &lt;img src=&quot;https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/2315884/Japanese/2315884_Japanese_KeyArt-OfficialVideoImage_d2d859bc-e06e-4a91-9402-5a2623a1d414.jpg&quot; class=&quot;webfeedsFeaturedVisual&quot; style=&quot;width:100%;display:block;&quot;&gt;\n&lt;p&gt;A 34-year-old unemployed recluse get hit by a truck... and wakes up as a newborn baby in a fantasy world! With loving parents, a lifetime of regrets, and a beginner&apos;s magic textbook, he sets out to make the most of his second chance at life.&lt;/p&gt;

@@ -19,7 +19,7 @@
   <%= for episode <- @show.episodes do %>
     <entry>
       <title>Episode <%= episode.number %> - <%= episode.title %></title>
-      <link rel="alternate" href="<%= episode.url %>"/>
+      <link href="<%= episode.url %>"/>
       <id><%= episode.url %></id>
       <content type="html">
         <%=
