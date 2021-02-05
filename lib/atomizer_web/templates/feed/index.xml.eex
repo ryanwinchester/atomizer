@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
   <title><%= @show.title %></title>
-  <link href="http://anifeedilizer.com/feed?show=<%= @show.url %>" rel="self"/>
+  <link href="https://atomizer.gigalixirapp.com/feed/?show=<%= @show.url %>" rel="self"/>
   <link href="<%= @show.url %>"/>
   <updated><%= updated_iso8601(@show) %></updated>
   <id><%= @show.url %></id>
@@ -21,6 +21,14 @@
       <title>Episode <%= episode.number %> - <%= episode.title %></title>
       <link rel="alternate" href="<%= episode.url %>"/>
       <id><%= episode.url %></id>
+      <content type="html">
+        <%=
+          xml_escape """
+            <img src="#{episode.thumbnail}" class="webfeedsFeaturedVisual" style="width:100%;display:block;">
+            <p>#{episode.synopsis}</p>
+            """
+        %>
+      </content>
       <summary type="text"><%= episode.synopsis %></summary>
       <updated><%= updated_iso8601(episode) %></updated>
       <published><%= updated_iso8601(episode) %></published>

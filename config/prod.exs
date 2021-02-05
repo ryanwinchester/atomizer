@@ -54,8 +54,6 @@ config :logger, level: :info
 # and configuration from environment variables.
 # import_config "prod.secret.exs"
 
-
-
 config :atomizer, AtomizerWeb.Endpoint,
   http: [port: {:system, "PORT"}],
   url: [host: System.get_env("APP_NAME") <> ".gigalixirapp.com", port: 443],
