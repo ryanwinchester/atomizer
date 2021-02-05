@@ -41,9 +41,10 @@ defmodule Atomizer.MixProject do
       {:jason, "~> 1.0"},
       {:plug_cowboy, "~> 2.0"},
 
-      # Scraping
-      {:crawly, "~> 0.12.0"},
-      {:floki, "~> 0.26.0"}
+      # HTTP
+      {:tesla, "~> 1.4.0"},
+      {:hackney, "~> 1.10"},
+      {:castore, "~> 0.1.0"}
     ]
   end
 

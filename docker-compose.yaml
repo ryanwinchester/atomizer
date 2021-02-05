@@ -1,0 +1,22 @@
+version: "3.9"
+
+services:
+  web-app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "4000:4000"
+    secrets:
+      - prod_secret_exs
+    depends_on:
+      - splash
+
+  splash:
+    image: scrapinghub/splash
+    ports:
+      - "8050:8050"
+
+secrets:
+  prod_secret_exs:
+    file: ./config/prod.secret.exs

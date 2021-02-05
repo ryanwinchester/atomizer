@@ -1,0 +1,1542 @@
+{
+  "count": 4,
+  "limit": -1,
+  "offset": 0,
+  "items": [
+    {
+      "starRating": 4.875178316690442,
+      "mostRecentSvodEngCa": {},
+      "mediaCategory": "episode",
+      "quality": {
+        "quality": "HD",
+        "height": 1080
+      },
+      "mostRecentSvodEngCaEndTimestamp": 0,
+      "genres": [
+        "Action/Adventure",
+        "Fantasy"
+      ],
+      "titleImages": {
+        "showThumbnail": "https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/2315888/Japanese/2315888_Japanese_ShowThumbnail_77b8ee28-7c78-4919-8852-0c7b6f1e5d0c.jpg",
+        "showBackgroundSite": "https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/2315892/Japanese/2315892_Japanese_ShowBackgroundSite_0d150657-59c3-4cbf-adeb-a74b7827d08a.jpg",
+        "showDetailHeaderDesktop": "https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/2315892/Japanese/2315892_Japanese_ShowDetailHeaderDesktop_6ca17cd7-2001-445a-afe2-cda34c93bbef.jpg",
+        "continueWatchingDesktop": "https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/2315892/Japanese/2315892_Japanese_ContinueWatchingDesktop_800efadd-ebc9-4bb3-b71b-2c9cfe2495e7.jpg",
+        "showDetailHeroSite": "",
+        "appleHorizontalBannerShow": "",
+        "backgroundImageXbox_360": "https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/2315892/Japanese/2315892_Japanese_ShowBackgroundGreyXbox360_4105a113-8ef7-40f0-8f7c-a31745107629.jpg",
+        "applePosterCover": "",
+        "showDetailBoxArtTablet": "https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/2315892/Japanese/2315892_Japanese_ShowDetailHeroTablet_9b3cf7c0-cfd0-4782-898e-7f5f501a9325.jpg",
+        "backgroundImageAppletvfiretv": "https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/2315892/Japanese/2315892_Japanese_ShowBackground_86bc2ba3-41d3-47db-a822-083c80f70a7c.jpg",
+        "newShowDetailHero": "https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/2315892/Japanese/2315892_Japanese_NewShowDetailHero_48a9e53e-5763-4546-b822-46a23217fcea.jpg",
+        "showDetailHeroDesktop": "",
+        "showKeyart": "https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/2315892/Japanese/2315892_Japanese_ShowKeyart_106133ec-f4e2-4d0f-9027-d18630b60d26.jpg",
+        "continueWatchingMobile": "https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/2315892/Japanese/2315892_Japanese_ContinueWatchingMobile_125c05cc-9a30-4449-8962-573d9ee282e8.jpg",
+        "featuredSpotlightShowPhone": "https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/2315892/Japanese/2315892_Japanese_FeaturedSpotlightShowPhone_986a15e2-753c-4f75-ba7b-6c9c26dd4a4c.jpg",
+        "appleHorizontalBannerMovie": "",
+        "featuredSpotlightShowTablet": "https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/2315892/Japanese/2315892_Japanese_FeaturedSpotlightShowTablet_a90638e3-a80f-4582-ac1f-b28a7a2860c8.jpg",
+        "showDetailBoxArtPhone": "https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/2315892/Japanese/2315892_Japanese_ShowDetailHeroPhone_075dbfd4-af84-4671-acc7-e61cff631c72.jpg",
+        "appleSquareCover": "https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/2315884/Latvian/2315884_Latvian_AppleSquareCover_e7390dee-eafe-46fb-a664-35d6de7c9d68.jpg",
+        "backgroundVideo": "",
+        "showMasterKeyArt": "",
+        "newShowDetailHeroPhone": "https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/2315892/Japanese/2315892_Japanese_NewShowDetailHeroPhone_16838fad-9bc1-478b-97cd-7bb6c7c41972.jpg",
+        "showDetailBoxArtXbox_360": "https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/2315892/Japanese/2315892_Japanese_ShowDetailHeroXbox360_0ae0d2f6-b8b5-4af6-98f5-b68c55d5919d.jpg",
+        "showDetailHeaderMobile": "https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/2315884/Latvian/2315884_Latvian_ShowDetailHeaderMobile_b883a9b9-fae8-4635-bc4d-19078f48f056.jpg",
+        "showLogo": "https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/2315892/Japanese/2315892_Japanese_ShowLogo_6b28fdf3-8d8f-4a13-b4a8-6cbc87021dab.png"
+      },
+      "engAllTerritoryAvail": "most_recent_svod_eng_all_terr",
+      "thumb": "https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/2315892/Japanese/2315892_Japanese_KeyArt-OfficialVideoImage_e7c043d4-1d89-4164-a375-ea78532be644.jpg",
+      "mostRecentSvodJpnAllTerrStartTimestamp": 0,
+      "title": "Emergency Family Meeting",
+      "mostRecentSvodEngCaStartTimestamp": 0,
+      "primaryAvail": "most_recent_svod_eng_ca",
+      "access": [
+        "SVOD_Simulcast_Japanese",
+        "SVOD_Simulcast_Japanese",
+        "SVOD_Simulcast_Japanese",
+        "SVOD_Simulcast_Japanese",
+        "SVOD_Simulcast_Japanese",
+        "SVOD_Simulcast_Japanese",
+        "SVOD_Simulcast_Japanese",
+        "SVOD_Simulcast_Japanese"
+      ],
+      "version": [
+        "Simulcast"
+      ],
+      "mostRecentSvodJpnAllTerrEndTimestamp": 0,
+      "itemId": 1321629,
+      "versionAudio": {
+        "Simulcast": [
+          "Japanese"
+        ]
+      },
+      "contentType": "episode",
+      "mostRecentSvodJpnCa": {
+        "image": "https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/2315892/Japanese/2315892_Japanese_KeyArt-OfficialVideoImage_e7c043d4-1d89-4164-a375-ea78532be644.jpg",
+        "siblingStartTimestamp": "1612713599",
+        "experience": 1321636,
+        "purchased": false,
+        "availId": 617347,
+        "distributor": "FunimationVenue",
+        "quality": "HD 1080",
+        "endTimestamp": "2145916800",
+        "mediaCategory": "episode",
+        "isPromo": false,
+        "siblingType": "",
+        "version": "Simulcast",
+        "territory": "Canada - English speaking",
+        "startDate": "2021-01-31 15:59:59+00:00",
+        "endDate": "2038-01-01 00:00:00+00:00",
+        "subscriptionRequired": true,
+        "versionId": 32683,
+        "tier": "All",
+        "purchase": "SVOD",
+        "startTimestamp": "1612108799",
+        "language": "Japanese",
+        "itemTitle": "Emergency Family Meeting",
+        "ids": {
+          "externalSeasonId": "MJR-S1-1",
+          "externalAsianId": "MJRJPN0004",
+          "externalShowId": "MJR",
+          "externalEpisodeId": "MJR0004",
+          "externalEnglishId": "MJRENG0004",
+          "externalAlphaId": "MJRSIM0004"
+        },
+        "devices": [
+          "All"
+        ],
+        "siblingEndTimestamp": "2145916800",
+        "item": {
+          "seasonTitle": "Season 1",
+          "seasonId": 1311429,
+          "episodeOrder": 4.0,
+          "created": "2021-01-09",
+          "titleSlug": "mushoku-tensei-jobless-reincarnation",
+          "episodeNum": "4",
+          "episodeId": 1321629,
+          "titleId": 1311428,
+          "seasonNum": "1",
+          "ratings": [
+            [
+              "12",
+              "zw-movies"
+            ],
+            [
+              "14",
+              "CBSC"
+            ],
+            [
+              "14",
+              "TV-US"
+            ],
+            [
+              "PS",
+              "RTE"
+            ],
+            [
+              "14",
+              "DJCTQ"
+            ],
+            [
+              "B15",
+              "RTC"
+            ]
+          ],
+          "showImage": "https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/2315892/Japanese/2315892_Japanese_ShowKeyart_106133ec-f4e2-4d0f-9027-d18630b60d26.jpg",
+          "episodeSlug": "emergency-family-meeting",
+          "runtime": "23:40",
+          "seasonOrder": 1.0,
+          "episodeName": "Emergency Family Meeting",
+          "titleName": "Mushoku Tensei: Jobless Reincarnation",
+          "titleExternalId": "MJR"
+        }
+      },
+      "poster": "https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/2315892/Japanese/2315892_Japanese_KeyArt-OfficialVideoImage_e7c043d4-1d89-4164-a375-ea78532be644.jpg",
+      "mostRecentSvodEngAllTerrEndTimestamp": 0,
+      "mostRecentSvodStartTimestamp": 1612216800,
+      "mostRecentSvod": {
+        "image": "https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/2315892/Japanese/2315892_Japanese_KeyArt-OfficialVideoImage_e7c043d4-1d89-4164-a375-ea78532be644.jpg",
+        "siblingStartTimestamp": "1612713599",
+        "experience": 1321636,
+        "availId": 617347,
+        "distributor": "FunimationVenue",
+        "quality": "HD 1080",
+        "endTimestamp": "2145916800",
+        "mediaCategory": "episode",
+        "isPromo": false,
+        "siblingType": "A-VOD",
+        "version": "Simulcast",
+        "territory": "Canada - English speaking",
+        "startDate": "2021-01-31 15:59:59+00:00",
+        "endDate": "2038-01-01 00:00:00+00:00",
+        "subscriptionRequired": true,
+        "versionId": 32683,
+        "tier": "All",
+        "purchase": "SVOD",
+        "startTimestamp": "1612108799",
+        "language": "Japanese",
+        "itemTitle": "Emergency Family Meeting",
+        "ids": {
+          "externalSeasonId": "MJR-S1-1",
+          "externalAsianId": "MJRJPN0004",
+          "externalShowId": "MJR",
+          "externalEpisodeId": "MJR0004",
+          "externalEnglishId": "MJRENG0004",
+          "externalAlphaId": "MJRSIM0004"
+        },
+        "devices": [
+          "All"
+        ],
+        "siblingEndTimestamp": "2145916800",
+        "item": {
+          "seasonTitle": "Season 1",
+          "seasonId": 1311429,
+          "episodeOrder": 4.0,
+          "created": "2021-01-09",
+          "titleSlug": "mushoku-tensei-jobless-reincarnation",
+          "episodeNum": "4",
+          "episodeId": 1321629,
+          "titleId": 1311428,
+          "seasonNum": "1",
+          "ratings": [
+            [
+              "12",
+              "zw-movies"
+            ],
+            [
+              "14",
+              "CBSC"
+            ],
+            [
+              "14",
+              "TV-US"
+            ],
+            [
+              "PS",
+              "RTE"
+            ],
+            [
+              "14",
+              "DJCTQ"
+            ],
+            [
+              "B15",
+              "RTC"
+            ]
+          ],
+          "showImage": "https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/2315892/Japanese/2315892_Japanese_ShowKeyart_106133ec-f4e2-4d0f-9027-d18630b60d26.jpg",
+          "episodeSlug": "emergency-family-meeting",
+          "runtime": "23:40",
+          "seasonOrder": 1.0,
+          "episodeName": "Emergency Family Meeting",
+          "titleName": "Mushoku Tensei: Jobless Reincarnation",
+          "titleExternalId": "MJR"
+        }
+      },
+      "synopsis": "The Greyrat family is overjoyed when Zenith announces that she's pregnant with a second child, but the mood takes a dour turn when Lilia reveals that she is also pregnant and Paul is the father. Will this be the end of Rudy's happy family?",
+      "mostRecentSvodJpnCaEndTimestamp": 2145916800,
+      "altAvail": "most_recent_svod_jpn_ca",
+      "mostRecentSvodJpnCaStartTimestamp": 1612108799,
+      "ids": {
+        "externalShowId": "MJR",
+        "externalSeasonId": "MJR-S1-1",
+        "externalEpisodeId": "MJR0004"
+      },
+      "item": {
+        "seasonTitle": "Season 1",
+        "seasonId": 1311429,
+        "episodeOrder": 4.0,
+        "episodeSlug": "emergency-family-meeting",
+        "created": "2021-01-09",
+        "titleSlug": "mushoku-tensei-jobless-reincarnation",
+        "episodeNum": "4",
+        "episodeId": 1321629,
+        "titleId": 1311428,
+        "seasonNum": "1",
+        "ratings": [
+          [
+            "12",
+            "zw-movies"
+          ],
+          [
+            "14",
+            "CBSC"
+          ],
+          [
+            "14",
+            "TV-US"
+          ],
+          [
+            "PS",
+            "RTE"
+          ],
+          [
+            "14",
+            "DJCTQ"
+          ],
+          [
+            "B15",
+            "RTC"
+          ]
+        ],
+        "showImage": "https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/2315892/Japanese/2315892_Japanese_ShowKeyart_106133ec-f4e2-4d0f-9027-d18630b60d26.jpg",
+        "titleName": "Mushoku Tensei: Jobless Reincarnation",
+        "runtime": "23:40",
+        "episodeName": "Emergency Family Meeting",
+        "seasonOrder": 1.0,
+        "titleExternalId": "MJR"
+      },
+      "mostRecentSvodEngAllTerrStartTimestamp": 0,
+      "audio": [
+        "Japanese"
+      ],
+      "mostRecentAvod": {}
+    },
+    {
+      "version": [
+        "Simulcast"
+      ],
+      "item": {
+        "seasonTitle": "Season 1",
+        "seasonId": 1311429,
+        "episodeOrder": 3.0,
+        "episodeSlug": "a-friend",
+        "created": "2021-01-09",
+        "titleSlug": "mushoku-tensei-jobless-reincarnation",
+        "episodeNum": "3",
+        "episodeId": 1321613,
+        "titleId": 1311428,
+        "seasonNum": "1",
+        "ratings": [
+          [
+            "12",
+            "zw-movies"
+          ],
+          [
+            "14",
+            "CBSC"
+          ],
+          [
+            "14",
+            "TV-US"
+          ],
+          [
+            "PS",
+            "RTE"
+          ],
+          [
+            "14",
+            "DJCTQ"
+          ],
+          [
+            "B15",
+            "RTC"
+          ]
+        ],
+        "showImage": "https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/2315892/Japanese/2315892_Japanese_ShowKeyart_106133ec-f4e2-4d0f-9027-d18630b60d26.jpg",
+        "titleName": "Mushoku Tensei: Jobless Reincarnation",
+        "runtime": "23:40",
+        "episodeName": "A Friend",
+        "seasonOrder": 1.0,
+        "titleExternalId": "MJR"
+      },
+      "mostRecentAvodStartTimestamp": 1612108799,
+      "mediaCategory": "episode",
+      "quality": {
+        "quality": "HD",
+        "height": 1080
+      },
+      "mostRecentAvodJpnCaEndTimestamp": 2145916800,
+      "genres": [
+        "Action/Adventure",
+        "Fantasy"
+      ],
+      "titleImages": {
+        "showThumbnail": "https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/2315888/Japanese/2315888_Japanese_ShowThumbnail_77b8ee28-7c78-4919-8852-0c7b6f1e5d0c.jpg",
+        "showBackgroundSite": "https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/2315892/Japanese/2315892_Japanese_ShowBackgroundSite_0d150657-59c3-4cbf-adeb-a74b7827d08a.jpg",
+        "showDetailHeaderDesktop": "https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/2315892/Japanese/2315892_Japanese_ShowDetailHeaderDesktop_6ca17cd7-2001-445a-afe2-cda34c93bbef.jpg",
+        "continueWatchingDesktop": "https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/2315892/Japanese/2315892_Japanese_ContinueWatchingDesktop_800efadd-ebc9-4bb3-b71b-2c9cfe2495e7.jpg",
+        "showDetailHeroSite": "",
+        "appleHorizontalBannerShow": "",
+        "backgroundImageXbox_360": "https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/2315892/Japanese/2315892_Japanese_ShowBackgroundGreyXbox360_4105a113-8ef7-40f0-8f7c-a31745107629.jpg",
+        "applePosterCover": "",
+        "showDetailBoxArtTablet": "https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/2315892/Japanese/2315892_Japanese_ShowDetailHeroTablet_9b3cf7c0-cfd0-4782-898e-7f5f501a9325.jpg",
+        "backgroundImageAppletvfiretv": "https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/2315892/Japanese/2315892_Japanese_ShowBackground_86bc2ba3-41d3-47db-a822-083c80f70a7c.jpg",
+        "newShowDetailHero": "https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/2315892/Japanese/2315892_Japanese_NewShowDetailHero_48a9e53e-5763-4546-b822-46a23217fcea.jpg",
+        "showDetailHeroDesktop": "",
+        "showKeyart": "https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/2315892/Japanese/2315892_Japanese_ShowKeyart_106133ec-f4e2-4d0f-9027-d18630b60d26.jpg",
+        "continueWatchingMobile": "https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/2315892/Japanese/2315892_Japanese_ContinueWatchingMobile_125c05cc-9a30-4449-8962-573d9ee282e8.jpg",
+        "featuredSpotlightShowPhone": "https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/2315892/Japanese/2315892_Japanese_FeaturedSpotlightShowPhone_986a15e2-753c-4f75-ba7b-6c9c26dd4a4c.jpg",
+        "appleHorizontalBannerMovie": "",
+        "featuredSpotlightShowTablet": "https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/2315892/Japanese/2315892_Japanese_FeaturedSpotlightShowTablet_a90638e3-a80f-4582-ac1f-b28a7a2860c8.jpg",
+        "showDetailBoxArtPhone": "https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/2315892/Japanese/2315892_Japanese_ShowDetailHeroPhone_075dbfd4-af84-4671-acc7-e61cff631c72.jpg",
+        "appleSquareCover": "https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/2315884/Latvian/2315884_Latvian_AppleSquareCover_e7390dee-eafe-46fb-a664-35d6de7c9d68.jpg",
+        "backgroundVideo": "",
+        "showMasterKeyArt": "",
+        "newShowDetailHeroPhone": "https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/2315892/Japanese/2315892_Japanese_NewShowDetailHeroPhone_16838fad-9bc1-478b-97cd-7bb6c7c41972.jpg",
+        "showDetailBoxArtXbox_360": "https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/2315892/Japanese/2315892_Japanese_ShowDetailHeroXbox360_0ae0d2f6-b8b5-4af6-98f5-b68c55d5919d.jpg",
+        "showDetailHeaderMobile": "https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/2315884/Latvian/2315884_Latvian_ShowDetailHeaderMobile_b883a9b9-fae8-4635-bc4d-19078f48f056.jpg",
+        "showLogo": "https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/2315892/Japanese/2315892_Japanese_ShowLogo_6b28fdf3-8d8f-4a13-b4a8-6cbc87021dab.png"
+      },
+      "engAllTerritoryAvail": "most_recent_avod_eng_all_terr",
+      "thumb": "https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/2315890/Japanese/2315890_Japanese_KeyArt-OfficialVideoImage_f1cd02a3-46e8-415d-b93b-ea5507da4630.jpg",
+      "title": "A Friend",
+      "starRating": 4.9019488428745435,
+      "primaryAvail": "most_recent_avod_eng_ca",
+      "access": [
+        "SVOD_Simulcast_Japanese",
+        "SVOD_Simulcast_Japanese",
+        "A-VOD_Simulcast_Japanese",
+        "SVOD_Simulcast_Japanese",
+        "A-VOD_Simulcast_Japanese",
+        "SVOD_Simulcast_Japanese",
+        "A-VOD_Simulcast_Japanese",
+        "SVOD_Simulcast_Japanese",
+        "A-VOD_Simulcast_Japanese",
+        "SVOD_Simulcast_Japanese",
+        "A-VOD_Simulcast_Japanese",
+        "SVOD_Simulcast_Japanese",
+        "A-VOD_Simulcast_Japanese",
+        "SVOD_Simulcast_Japanese"
+      ],
+      "mostRecentAvodJpnCaStartTimestamp": 1612108799,
+      "mostRecentAvodEngCa": {},
+      "itemId": 1321613,
+      "versionAudio": {
+        "Simulcast": [
+          "Japanese"
+        ]
+      },
+      "mostRecentAvodJpnAllTerrStartTimestamp": 0,
+      "mostRecentAvodEngCaStartTimestamp": 0,
+      "poster": "https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/2315890/Japanese/2315890_Japanese_KeyArt-OfficialVideoImage_f1cd02a3-46e8-415d-b93b-ea5507da4630.jpg",
+      "mostRecentAvodJpnAllTerrEndTimestamp": 0,
+      "mostRecentAvodJpnCa": {
+        "image": "https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/2315890/Japanese/2315890_Japanese_KeyArt-OfficialVideoImage_f1cd02a3-46e8-415d-b93b-ea5507da4630.jpg",
+        "siblingStartTimestamp": "1611503999",
+        "experience": 1321621,
+        "purchased": false,
+        "availId": 617316,
+        "distributor": "FunimationVenue",
+        "quality": "HD 1080",
+        "endTimestamp": "2145916800",
+        "mediaCategory": "episode",
+        "isPromo": false,
+        "siblingType": "DFOV",
+        "version": "Simulcast",
+        "territory": "Canada - English speaking",
+        "startDate": "2021-01-31 15:59:59+00:00",
+        "endDate": "2038-01-01 00:00:00+00:00",
+        "subscriptionRequired": false,
+        "versionId": 32680,
+        "tier": "All",
+        "purchase": "A-VOD",
+        "startTimestamp": "1612108799",
+        "language": "Japanese",
+        "itemTitle": "A Friend",
+        "ids": {
+          "externalSeasonId": "MJR-S1-1",
+          "externalAsianId": "MJRJPN0003",
+          "externalShowId": "MJR",
+          "externalEpisodeId": "MJR0003",
+          "externalEnglishId": "MJRENG0003",
+          "externalAlphaId": "MJRSIM0003"
+        },
+        "devices": [
+          "All"
+        ],
+        "siblingEndTimestamp": "2145916800",
+        "item": {
+          "seasonTitle": "Season 1",
+          "seasonId": 1311429,
+          "episodeOrder": 3.0,
+          "created": "2021-01-09",
+          "titleSlug": "mushoku-tensei-jobless-reincarnation",
+          "episodeNum": "3",
+          "episodeId": 1321613,
+          "titleId": 1311428,
+          "seasonNum": "1",
+          "ratings": [
+            [
+              "12",
+              "zw-movies"
+            ],
+            [
+              "14",
+              "CBSC"
+            ],
+            [
+              "14",
+              "TV-US"
+            ],
+            [
+              "PS",
+              "RTE"
+            ],
+            [
+              "14",
+              "DJCTQ"
+            ],
+            [
+              "B15",
+              "RTC"
+            ]
+          ],
+          "showImage": "https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/2315892/Japanese/2315892_Japanese_ShowKeyart_106133ec-f4e2-4d0f-9027-d18630b60d26.jpg",
+          "episodeSlug": "a-friend",
+          "runtime": "23:40",
+          "seasonOrder": 1.0,
+          "episodeName": "A Friend",
+          "titleName": "Mushoku Tensei: Jobless Reincarnation",
+          "titleExternalId": "MJR"
+        }
+      },
+      "mostRecentSvod": {
+        "image": "https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/2315890/Japanese/2315890_Japanese_KeyArt-OfficialVideoImage_f1cd02a3-46e8-415d-b93b-ea5507da4630.jpg",
+        "siblingStartTimestamp": "1612108799",
+        "devices": [
+          "All"
+        ],
+        "availId": 617315,
+        "distributor": "FunimationVenue",
+        "quality": "HD 1080",
+        "endTimestamp": "2145916800",
+        "mediaCategory": "episode",
+        "isPromo": false,
+        "siblingType": "A-VOD",
+        "version": "Simulcast",
+        "territory": "Canada - English speaking",
+        "startDate": "2021-01-24 15:59:59+00:00",
+        "endDate": "2038-01-01 00:00:00+00:00",
+        "subscriptionRequired": false,
+        "versionId": 32680,
+        "tier": "All",
+        "purchase": "SVOD",
+        "startTimestamp": "1611503999",
+        "language": "Japanese",
+        "itemTitle": "A Friend",
+        "ids": {
+          "externalSeasonId": "MJR-S1-1",
+          "externalAsianId": "MJRJPN0003",
+          "externalShowId": "MJR",
+          "externalEpisodeId": "MJR0003",
+          "externalEnglishId": "MJRENG0003",
+          "externalAlphaId": "MJRSIM0003"
+        },
+        "experience": 1321621,
+        "siblingEndTimestamp": "2145916800",
+        "item": {
+          "seasonTitle": "Season 1",
+          "seasonId": 1311429,
+          "episodeOrder": 3.0,
+          "episodeSlug": "a-friend",
+          "created": "2021-01-09",
+          "titleSlug": "mushoku-tensei-jobless-reincarnation",
+          "episodeNum": "3",
+          "episodeId": 1321613,
+          "titleId": 1311428,
+          "seasonNum": "1",
+          "ratings": [
+            [
+              "12",
+              "zw-movies"
+            ],
+            [
+              "14",
+              "CBSC"
+            ],
+            [
+              "14",
+              "TV-US"
+            ],
+            [
+              "PS",
+              "RTE"
+            ],
+            [
+              "14",
+              "DJCTQ"
+            ],
+            [
+              "B15",
+              "RTC"
+            ]
+          ],
+          "showImage": "https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/2315892/Japanese/2315892_Japanese_ShowKeyart_106133ec-f4e2-4d0f-9027-d18630b60d26.jpg",
+          "titleName": "Mushoku Tensei: Jobless Reincarnation",
+          "runtime": "23:40",
+          "episodeName": "A Friend",
+          "seasonOrder": 1.0,
+          "titleExternalId": "MJR"
+        }
+      },
+      "contentType": "episode",
+      "mostRecentAvodEngAllTerrEndTimestamp": 0,
+      "ids": {
+        "externalShowId": "MJR",
+        "externalSeasonId": "MJR-S1-1",
+        "externalEpisodeId": "MJR0003"
+      },
+      "mostRecentAvodEngAllTerrStartTimestamp": 0,
+      "altAvail": "most_recent_avod_jpn_ca",
+      "synopsis": "Rudy begins to explore the village and rescues a green-haired child from a group of bullies. The two grow close practicing magic, but is there more to Rudy's new friend than he thinks?",
+      "mostRecentAvodEngCaEndTimestamp": 0,
+      "audio": [
+        "Japanese"
+      ],
+      "mostRecentAvod": {
+        "image": "https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/2315890/Japanese/2315890_Japanese_KeyArt-OfficialVideoImage_f1cd02a3-46e8-415d-b93b-ea5507da4630.jpg",
+        "siblingStartTimestamp": "1611503999",
+        "devices": [
+          "All"
+        ],
+        "availId": 617316,
+        "distributor": "FunimationVenue",
+        "quality": "HD 1080",
+        "endTimestamp": "2145916800",
+        "mediaCategory": "episode",
+        "isPromo": false,
+        "siblingType": "DFOV",
+        "version": "Simulcast",
+        "territory": "Canada - English speaking",
+        "startDate": "2021-01-31 15:59:59+00:00",
+        "endDate": "2038-01-01 00:00:00+00:00",
+        "versionId": 32680,
+        "tier": "All",
+        "purchase": "A-VOD",
+        "startTimestamp": "1612108799",
+        "language": "Japanese",
+        "itemTitle": "A Friend",
+        "ids": {
+          "externalSeasonId": "MJR-S1-1",
+          "externalAsianId": "MJRJPN0003",
+          "externalShowId": "MJR",
+          "externalEpisodeId": "MJR0003",
+          "externalEnglishId": "MJRENG0003",
+          "externalAlphaId": "MJRSIM0003"
+        },
+        "experience": 1321621,
+        "siblingEndTimestamp": "2145916800",
+        "item": {
+          "seasonTitle": "Season 1",
+          "seasonId": 1311429,
+          "episodeOrder": 3.0,
+          "episodeSlug": "a-friend",
+          "created": "2021-01-09",
+          "titleSlug": "mushoku-tensei-jobless-reincarnation",
+          "episodeNum": "3",
+          "episodeId": 1321613,
+          "titleId": 1311428,
+          "seasonNum": "1",
+          "ratings": [
+            [
+              "12",
+              "zw-movies"
+            ],
+            [
+              "14",
+              "CBSC"
+            ],
+            [
+              "14",
+              "TV-US"
+            ],
+            [
+              "PS",
+              "RTE"
+            ],
+            [
+              "14",
+              "DJCTQ"
+            ],
+            [
+              "B15",
+              "RTC"
+            ]
+          ],
+          "showImage": "https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/2315892/Japanese/2315892_Japanese_ShowKeyart_106133ec-f4e2-4d0f-9027-d18630b60d26.jpg",
+          "titleName": "Mushoku Tensei: Jobless Reincarnation",
+          "runtime": "23:40",
+          "episodeName": "A Friend",
+          "seasonOrder": 1.0,
+          "titleExternalId": "MJR"
+        }
+      }
+    },
+    {
+      "version": [
+        "Simulcast"
+      ],
+      "item": {
+        "seasonTitle": "Season 1",
+        "seasonId": 1311429,
+        "episodeOrder": 2.0,
+        "episodeSlug": "master",
+        "created": "2021-01-09",
+        "titleSlug": "mushoku-tensei-jobless-reincarnation",
+        "episodeNum": "2",
+        "episodeId": 1321632,
+        "titleId": 1311428,
+        "seasonNum": "1",
+        "ratings": [
+          [
+            "12",
+            "zw-movies"
+          ],
+          [
+            "14",
+            "CBSC"
+          ],
+          [
+            "14",
+            "TV-US"
+          ],
+          [
+            "PS",
+            "RTE"
+          ],
+          [
+            "14",
+            "DJCTQ"
+          ],
+          [
+            "B15",
+            "RTC"
+          ]
+        ],
+        "showImage": "https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/2315892/Japanese/2315892_Japanese_ShowKeyart_106133ec-f4e2-4d0f-9027-d18630b60d26.jpg",
+        "titleName": "Mushoku Tensei: Jobless Reincarnation",
+        "runtime": "23:40",
+        "episodeName": "Master",
+        "seasonOrder": 1.0,
+        "titleExternalId": "MJR"
+      },
+      "mostRecentAvodStartTimestamp": 1611503999,
+      "mediaCategory": "episode",
+      "quality": {
+        "quality": "HD",
+        "height": 1080
+      },
+      "mostRecentAvodJpnCaEndTimestamp": 2145916800,
+      "genres": [
+        "Action/Adventure",
+        "Fantasy"
+      ],
+      "titleImages": {
+        "showThumbnail": "https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/2315886/Japanese/2315886_Japanese_ShowThumbnail_76234569-86ae-460f-a469-e13939d9453d.jpg",
+        "showBackgroundSite": "https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/2315892/Japanese/2315892_Japanese_ShowBackgroundSite_0d150657-59c3-4cbf-adeb-a74b7827d08a.jpg",
+        "showDetailHeaderDesktop": "https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/2315892/Japanese/2315892_Japanese_ShowDetailHeaderDesktop_6ca17cd7-2001-445a-afe2-cda34c93bbef.jpg",
+        "continueWatchingDesktop": "https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/2315892/Japanese/2315892_Japanese_ContinueWatchingDesktop_800efadd-ebc9-4bb3-b71b-2c9cfe2495e7.jpg",
+        "showDetailHeroSite": "",
+        "appleHorizontalBannerShow": "",
+        "backgroundImageXbox_360": "https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/2315892/Japanese/2315892_Japanese_ShowBackgroundGreyXbox360_4105a113-8ef7-40f0-8f7c-a31745107629.jpg",
+        "applePosterCover": "",
+        "showDetailBoxArtTablet": "https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/2315892/Japanese/2315892_Japanese_ShowDetailHeroTablet_9b3cf7c0-cfd0-4782-898e-7f5f501a9325.jpg",
+        "backgroundImageAppletvfiretv": "https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/2315892/Japanese/2315892_Japanese_ShowBackground_86bc2ba3-41d3-47db-a822-083c80f70a7c.jpg",
+        "newShowDetailHero": "https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/2315892/Japanese/2315892_Japanese_NewShowDetailHero_48a9e53e-5763-4546-b822-46a23217fcea.jpg",
+        "showDetailHeroDesktop": "",
+        "showKeyart": "https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/2315892/Japanese/2315892_Japanese_ShowKeyart_106133ec-f4e2-4d0f-9027-d18630b60d26.jpg",
+        "continueWatchingMobile": "https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/2315892/Japanese/2315892_Japanese_ContinueWatchingMobile_125c05cc-9a30-4449-8962-573d9ee282e8.jpg",
+        "featuredSpotlightShowPhone": "https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/2315892/Japanese/2315892_Japanese_FeaturedSpotlightShowPhone_986a15e2-753c-4f75-ba7b-6c9c26dd4a4c.jpg",
+        "appleHorizontalBannerMovie": "",
+        "featuredSpotlightShowTablet": "https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/2315892/Japanese/2315892_Japanese_FeaturedSpotlightShowTablet_a90638e3-a80f-4582-ac1f-b28a7a2860c8.jpg",
+        "showDetailBoxArtPhone": "https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/2315892/Japanese/2315892_Japanese_ShowDetailHeroPhone_075dbfd4-af84-4671-acc7-e61cff631c72.jpg",
+        "appleSquareCover": "https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/2315884/Latvian/2315884_Latvian_AppleSquareCover_e7390dee-eafe-46fb-a664-35d6de7c9d68.jpg",
+        "backgroundVideo": "",
+        "showMasterKeyArt": "",
+        "newShowDetailHeroPhone": "https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/2315892/Japanese/2315892_Japanese_NewShowDetailHeroPhone_16838fad-9bc1-478b-97cd-7bb6c7c41972.jpg",
+        "showDetailBoxArtXbox_360": "https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/2315892/Japanese/2315892_Japanese_ShowDetailHeroXbox360_0ae0d2f6-b8b5-4af6-98f5-b68c55d5919d.jpg",
+        "showDetailHeaderMobile": "https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/2315884/Latvian/2315884_Latvian_ShowDetailHeaderMobile_b883a9b9-fae8-4635-bc4d-19078f48f056.jpg",
+        "showLogo": "https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/2315892/Japanese/2315892_Japanese_ShowLogo_6b28fdf3-8d8f-4a13-b4a8-6cbc87021dab.png"
+      },
+      "engAllTerritoryAvail": "most_recent_avod_eng_all_terr",
+      "thumb": "https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/2315882/Japanese/2315882_Japanese_KeyArt-OfficialVideoImage_c25e5c00-d75f-4596-914c-8b54621eeda8.jpg",
+      "title": "Master",
+      "starRating": 4.8091168091168095,
+      "primaryAvail": "most_recent_avod_eng_ca",
+      "access": [
+        "A-VOD_Simulcast_Japanese",
+        "A-VOD_Simulcast_Japanese",
+        "SVOD_Simulcast_Japanese",
+        "SVOD_Simulcast_Japanese",
+        "A-VOD_Simulcast_Japanese",
+        "A-VOD_Simulcast_Japanese",
+        "A-VOD_Simulcast_Japanese",
+        "SVOD_Simulcast_Japanese",
+        "SVOD_Simulcast_Japanese",
+        "SVOD_Simulcast_Japanese",
+        "SVOD_Simulcast_Japanese",
+        "SVOD_Simulcast_Japanese",
+        "A-VOD_Simulcast_Japanese",
+        "SVOD_Simulcast_Japanese"
+      ],
+      "mostRecentAvodJpnCaStartTimestamp": 1611503999,
+      "mostRecentAvodEngCa": {},
+      "itemId": 1321632,
+      "versionAudio": {
+        "Simulcast": [
+          "Japanese"
+        ]
+      },
+      "mostRecentAvodJpnAllTerrStartTimestamp": 0,
+      "mostRecentAvodEngCaStartTimestamp": 0,
+      "poster": "https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/2315882/Japanese/2315882_Japanese_KeyArt-OfficialVideoImage_c25e5c00-d75f-4596-914c-8b54621eeda8.jpg",
+      "mostRecentAvodJpnAllTerrEndTimestamp": 0,
+      "mostRecentAvodJpnCa": {
+        "image": "https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/2315882/Japanese/2315882_Japanese_KeyArt-OfficialVideoImage_c25e5c00-d75f-4596-914c-8b54621eeda8.jpg",
+        "siblingStartTimestamp": "1610899200",
+        "experience": 1321638,
+        "purchased": false,
+        "availId": 617354,
+        "distributor": "FunimationVenue",
+        "quality": "HD 1080",
+        "endTimestamp": "2145916800",
+        "mediaCategory": "episode",
+        "isPromo": true,
+        "siblingType": "DFOV",
+        "version": "Simulcast",
+        "territory": "Canada - English speaking",
+        "startDate": "2021-01-24 15:59:59+00:00",
+        "endDate": "2038-01-01 00:00:00+00:00",
+        "subscriptionRequired": false,
+        "versionId": 32684,
+        "tier": "All",
+        "purchase": "A-VOD",
+        "startTimestamp": "1611503999",
+        "language": "Japanese",
+        "itemTitle": "Master",
+        "ids": {
+          "externalSeasonId": "MJR-S1-1",
+          "externalAsianId": "MJRJPN0002",
+          "externalShowId": "MJR",
+          "externalEpisodeId": "MJR0002",
+          "externalEnglishId": "MJRENG0002",
+          "externalAlphaId": "MJRSIM0002"
+        },
+        "devices": [
+          "All"
+        ],
+        "siblingEndTimestamp": "2145916800",
+        "item": {
+          "seasonTitle": "Season 1",
+          "seasonId": 1311429,
+          "episodeOrder": 2.0,
+          "created": "2021-01-09",
+          "titleSlug": "mushoku-tensei-jobless-reincarnation",
+          "episodeNum": "2",
+          "episodeId": 1321632,
+          "titleId": 1311428,
+          "seasonNum": "1",
+          "ratings": [
+            [
+              "12",
+              "zw-movies"
+            ],
+            [
+              "14",
+              "CBSC"
+            ],
+            [
+              "14",
+              "TV-US"
+            ],
+            [
+              "PS",
+              "RTE"
+            ],
+            [
+              "14",
+              "DJCTQ"
+            ],
+            [
+              "B15",
+              "RTC"
+            ]
+          ],
+          "showImage": "https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/2315892/Japanese/2315892_Japanese_ShowKeyart_106133ec-f4e2-4d0f-9027-d18630b60d26.jpg",
+          "episodeSlug": "master",
+          "runtime": "23:40",
+          "seasonOrder": 1.0,
+          "episodeName": "Master",
+          "titleName": "Mushoku Tensei: Jobless Reincarnation",
+          "titleExternalId": "MJR"
+        }
+      },
+      "mostRecentSvod": {
+        "image": "https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/2315882/Japanese/2315882_Japanese_KeyArt-OfficialVideoImage_c25e5c00-d75f-4596-914c-8b54621eeda8.jpg",
+        "siblingStartTimestamp": "1611503999",
+        "devices": [
+          "All"
+        ],
+        "availId": 617350,
+        "distributor": "FunimationVenue",
+        "quality": "HD 1080",
+        "endTimestamp": "2145916800",
+        "mediaCategory": "episode",
+        "isPromo": true,
+        "siblingType": "A-VOD",
+        "version": "Simulcast",
+        "territory": "Canada - English speaking",
+        "startDate": "2021-01-17 16:00:00+00:00",
+        "endDate": "2038-01-01 00:00:00+00:00",
+        "subscriptionRequired": false,
+        "versionId": 32684,
+        "tier": "All",
+        "purchase": "SVOD",
+        "startTimestamp": "1610899200",
+        "language": "Japanese",
+        "itemTitle": "Master",
+        "ids": {
+          "externalSeasonId": "MJR-S1-1",
+          "externalAsianId": "MJRJPN0002",
+          "externalShowId": "MJR",
+          "externalEpisodeId": "MJR0002",
+          "externalEnglishId": "MJRENG0002",
+          "externalAlphaId": "MJRSIM0002"
+        },
+        "experience": 1321638,
+        "siblingEndTimestamp": "2145916800",
+        "item": {
+          "seasonTitle": "Season 1",
+          "seasonId": 1311429,
+          "episodeOrder": 2.0,
+          "episodeSlug": "master",
+          "created": "2021-01-09",
+          "titleSlug": "mushoku-tensei-jobless-reincarnation",
+          "episodeNum": "2",
+          "episodeId": 1321632,
+          "titleId": 1311428,
+          "seasonNum": "1",
+          "ratings": [
+            [
+              "12",
+              "zw-movies"
+            ],
+            [
+              "14",
+              "CBSC"
+            ],
+            [
+              "14",
+              "TV-US"
+            ],
+            [
+              "PS",
+              "RTE"
+            ],
+            [
+              "14",
+              "DJCTQ"
+            ],
+            [
+              "B15",
+              "RTC"
+            ]
+          ],
+          "showImage": "https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/2315892/Japanese/2315892_Japanese_ShowKeyart_106133ec-f4e2-4d0f-9027-d18630b60d26.jpg",
+          "titleName": "Mushoku Tensei: Jobless Reincarnation",
+          "runtime": "23:40",
+          "episodeName": "Master",
+          "seasonOrder": 1.0,
+          "titleExternalId": "MJR"
+        }
+      },
+      "contentType": "episode",
+      "mostRecentAvodEngAllTerrEndTimestamp": 0,
+      "ids": {
+        "externalShowId": "MJR",
+        "externalSeasonId": "MJR-S1-1",
+        "externalEpisodeId": "MJR0002"
+      },
+      "mostRecentAvodEngAllTerrStartTimestamp": 0,
+      "altAvail": "most_recent_avod_jpn_ca",
+      "synopsis": "Rudy begins training with his new magic tutor and learning swordsmanship from his father. He makes rapid progress, but traumatic memories from his past life leave him to afraid to go outside. Is his second chance already doomed to failure?",
+      "mostRecentAvodEngCaEndTimestamp": 0,
+      "audio": [
+        "Japanese"
+      ],
+      "mostRecentAvod": {
+        "image": "https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/2315882/Japanese/2315882_Japanese_KeyArt-OfficialVideoImage_c25e5c00-d75f-4596-914c-8b54621eeda8.jpg",
+        "siblingStartTimestamp": "1610899200",
+        "devices": [
+          "All"
+        ],
+        "availId": 617354,
+        "distributor": "FunimationVenue",
+        "quality": "HD 1080",
+        "endTimestamp": "2145916800",
+        "mediaCategory": "episode",
+        "isPromo": true,
+        "siblingType": "DFOV",
+        "version": "Simulcast",
+        "territory": "Canada - English speaking",
+        "startDate": "2021-01-24 15:59:59+00:00",
+        "endDate": "2038-01-01 00:00:00+00:00",
+        "versionId": 32684,
+        "tier": "All",
+        "purchase": "A-VOD",
+        "startTimestamp": "1611503999",
+        "language": "Japanese",
+        "itemTitle": "Master",
+        "ids": {
+          "externalSeasonId": "MJR-S1-1",
+          "externalAsianId": "MJRJPN0002",
+          "externalShowId": "MJR",
+          "externalEpisodeId": "MJR0002",
+          "externalEnglishId": "MJRENG0002",
+          "externalAlphaId": "MJRSIM0002"
+        },
+        "experience": 1321638,
+        "siblingEndTimestamp": "2145916800",
+        "item": {
+          "seasonTitle": "Season 1",
+          "seasonId": 1311429,
+          "episodeOrder": 2.0,
+          "episodeSlug": "master",
+          "created": "2021-01-09",
+          "titleSlug": "mushoku-tensei-jobless-reincarnation",
+          "episodeNum": "2",
+          "episodeId": 1321632,
+          "titleId": 1311428,
+          "seasonNum": "1",
+          "ratings": [
+            [
+              "12",
+              "zw-movies"
+            ],
+            [
+              "14",
+              "CBSC"
+            ],
+            [
+              "14",
+              "TV-US"
+            ],
+            [
+              "PS",
+              "RTE"
+            ],
+            [
+              "14",
+              "DJCTQ"
+            ],
+            [
+              "B15",
+              "RTC"
+            ]
+          ],
+          "showImage": "https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/2315892/Japanese/2315892_Japanese_ShowKeyart_106133ec-f4e2-4d0f-9027-d18630b60d26.jpg",
+          "titleName": "Mushoku Tensei: Jobless Reincarnation",
+          "runtime": "23:40",
+          "episodeName": "Master",
+          "seasonOrder": 1.0,
+          "titleExternalId": "MJR"
+        }
+      }
+    },
+    {
+      "version": [
+        "Simulcast"
+      ],
+      "item": {
+        "seasonTitle": "Season 1",
+        "seasonId": 1311429,
+        "episodeOrder": 1.0,
+        "episodeSlug": "jobless-reincarnation",
+        "created": "2020-12-18",
+        "titleSlug": "mushoku-tensei-jobless-reincarnation",
+        "episodeNum": "1",
+        "episodeId": 1311430,
+        "titleId": 1311428,
+        "seasonNum": "1",
+        "ratings": [
+          [
+            "12",
+            "zw-movies"
+          ],
+          [
+            "14",
+            "CBSC"
+          ],
+          [
+            "14",
+            "TV-US"
+          ],
+          [
+            "PS",
+            "RTE"
+          ],
+          [
+            "14",
+            "DJCTQ"
+          ],
+          [
+            "B15",
+            "RTC"
+          ]
+        ],
+        "showImage": "https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/2315892/Japanese/2315892_Japanese_ShowKeyart_106133ec-f4e2-4d0f-9027-d18630b60d26.jpg",
+        "titleName": "Mushoku Tensei: Jobless Reincarnation",
+        "runtime": "23:40",
+        "episodeName": "Jobless Reincarnation",
+        "seasonOrder": 1.0,
+        "titleExternalId": "MJR"
+      },
+      "mostRecentAvodStartTimestamp": 1610899200,
+      "mediaCategory": "episode",
+      "quality": {
+        "quality": "HD",
+        "height": 1080
+      },
+      "mostRecentAvodJpnCaEndTimestamp": 2145916800,
+      "genres": [
+        "Action/Adventure",
+        "Fantasy"
+      ],
+      "titleImages": {
+        "showThumbnail": "https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/2315888/Japanese/2315888_Japanese_ShowThumbnail_77b8ee28-7c78-4919-8852-0c7b6f1e5d0c.jpg",
+        "showBackgroundSite": "https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/2315892/Japanese/2315892_Japanese_ShowBackgroundSite_0d150657-59c3-4cbf-adeb-a74b7827d08a.jpg",
+        "showDetailHeaderDesktop": "https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/2315892/Japanese/2315892_Japanese_ShowDetailHeaderDesktop_6ca17cd7-2001-445a-afe2-cda34c93bbef.jpg",
+        "continueWatchingDesktop": "https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/2315892/Japanese/2315892_Japanese_ContinueWatchingDesktop_800efadd-ebc9-4bb3-b71b-2c9cfe2495e7.jpg",
+        "showDetailHeroSite": "",
+        "appleHorizontalBannerShow": "",
+        "backgroundImageXbox_360": "https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/2315892/Japanese/2315892_Japanese_ShowBackgroundGreyXbox360_4105a113-8ef7-40f0-8f7c-a31745107629.jpg",
+        "applePosterCover": "",
+        "showDetailBoxArtTablet": "https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/2315892/Japanese/2315892_Japanese_ShowDetailHeroTablet_9b3cf7c0-cfd0-4782-898e-7f5f501a9325.jpg",
+        "backgroundImageAppletvfiretv": "https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/2315892/Japanese/2315892_Japanese_ShowBackground_86bc2ba3-41d3-47db-a822-083c80f70a7c.jpg",
+        "newShowDetailHero": "https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/2315892/Japanese/2315892_Japanese_NewShowDetailHero_48a9e53e-5763-4546-b822-46a23217fcea.jpg",
+        "showDetailHeroDesktop": "",
+        "showKeyart": "https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/2315892/Japanese/2315892_Japanese_ShowKeyart_106133ec-f4e2-4d0f-9027-d18630b60d26.jpg",
+        "continueWatchingMobile": "https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/2315892/Japanese/2315892_Japanese_ContinueWatchingMobile_125c05cc-9a30-4449-8962-573d9ee282e8.jpg",
+        "featuredSpotlightShowPhone": "https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/2315892/Japanese/2315892_Japanese_FeaturedSpotlightShowPhone_986a15e2-753c-4f75-ba7b-6c9c26dd4a4c.jpg",
+        "appleHorizontalBannerMovie": "",
+        "featuredSpotlightShowTablet": "https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/2315892/Japanese/2315892_Japanese_FeaturedSpotlightShowTablet_a90638e3-a80f-4582-ac1f-b28a7a2860c8.jpg",
+        "showDetailBoxArtPhone": "https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/2315892/Japanese/2315892_Japanese_ShowDetailHeroPhone_075dbfd4-af84-4671-acc7-e61cff631c72.jpg",
+        "appleSquareCover": "https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/2315884/Latvian/2315884_Latvian_AppleSquareCover_e7390dee-eafe-46fb-a664-35d6de7c9d68.jpg",
+        "backgroundVideo": "",
+        "showMasterKeyArt": "",
+        "newShowDetailHeroPhone": "https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/2315892/Japanese/2315892_Japanese_NewShowDetailHeroPhone_16838fad-9bc1-478b-97cd-7bb6c7c41972.jpg",
+        "showDetailBoxArtXbox_360": "https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/2315892/Japanese/2315892_Japanese_ShowDetailHeroXbox360_0ae0d2f6-b8b5-4af6-98f5-b68c55d5919d.jpg",
+        "showDetailHeaderMobile": "https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/2315884/Latvian/2315884_Latvian_ShowDetailHeaderMobile_b883a9b9-fae8-4635-bc4d-19078f48f056.jpg",
+        "showLogo": "https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/2315892/Japanese/2315892_Japanese_ShowLogo_6b28fdf3-8d8f-4a13-b4a8-6cbc87021dab.png"
+      },
+      "engAllTerritoryAvail": "most_recent_avod_eng_all_terr",
+      "thumb": "https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/2315884/Japanese/2315884_Japanese_KeyArt-OfficialVideoImage_d2d859bc-e06e-4a91-9402-5a2623a1d414.jpg",
+      "title": "Jobless Reincarnation",
+      "starRating": 4.8979957050823195,
+      "primaryAvail": "most_recent_avod_eng_ca",
+      "access": [
+        "SVOD_Simulcast_Japanese",
+        "SVOD_Simulcast_Japanese",
+        "A-VOD_Simulcast_Japanese",
+        "SVOD_Simulcast_Japanese",
+        "A-VOD_Simulcast_Japanese",
+        "SVOD_Simulcast_Japanese",
+        "A-VOD_Simulcast_Japanese",
+        "SVOD_Simulcast_Japanese",
+        "A-VOD_Simulcast_Japanese",
+        "SVOD_Simulcast_Japanese",
+        "A-VOD_Simulcast_Japanese",
+        "SVOD_Simulcast_Japanese",
+        "A-VOD_Simulcast_Japanese",
+        "SVOD_Simulcast_Japanese"
+      ],
+      "mostRecentAvodJpnCaStartTimestamp": 1610899200,
+      "mostRecentAvodEngCa": {},
+      "itemId": 1311430,
+      "versionAudio": {
+        "Simulcast": [
+          "Japanese"
+        ]
+      },
+      "mostRecentAvodJpnAllTerrStartTimestamp": 0,
+      "mostRecentAvodEngCaStartTimestamp": 0,
+      "poster": "https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/2315884/Japanese/2315884_Japanese_KeyArt-OfficialVideoImage_d2d859bc-e06e-4a91-9402-5a2623a1d414.jpg",
+      "mostRecentAvodJpnAllTerrEndTimestamp": 0,
+      "mostRecentAvodJpnCa": {
+        "image": "https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/2315884/Japanese/2315884_Japanese_KeyArt-OfficialVideoImage_d2d859bc-e06e-4a91-9402-5a2623a1d414.jpg",
+        "siblingStartTimestamp": "1610294400",
+        "experience": 1321634,
+        "purchased": false,
+        "availId": 617219,
+        "distributor": "FunimationVenue",
+        "quality": "HD 1080",
+        "endTimestamp": "2145916800",
+        "mediaCategory": "episode",
+        "isPromo": true,
+        "siblingType": "SVOD",
+        "version": "Simulcast",
+        "territory": "Canada - English speaking",
+        "startDate": "2021-01-17 16:00:00+00:00",
+        "endDate": "2038-01-01 00:00:00+00:00",
+        "subscriptionRequired": false,
+        "versionId": 32398,
+        "tier": "All",
+        "purchase": "A-VOD",
+        "startTimestamp": "1610899200",
+        "language": "Japanese",
+        "itemTitle": "Jobless Reincarnation",
+        "ids": {
+          "externalSeasonId": "MJR-S1-1",
+          "externalAsianId": "MJRJPN0001",
+          "externalShowId": "MJR",
+          "externalEpisodeId": "MJR0001",
+          "externalEnglishId": "MJRENG0001",
+          "externalAlphaId": "MJRSIM0001"
+        },
+        "devices": [
+          "All"
+        ],
+        "siblingEndTimestamp": "2145916800",
+        "item": {
+          "seasonTitle": "Season 1",
+          "seasonId": 1311429,
+          "episodeOrder": 1.0,
+          "created": "2020-12-18",
+          "titleSlug": "mushoku-tensei-jobless-reincarnation",
+          "episodeNum": "1",
+          "episodeId": 1311430,
+          "titleId": 1311428,
+          "seasonNum": "1",
+          "ratings": [
+            [
+              "12",
+              "zw-movies"
+            ],
+            [
+              "14",
+              "CBSC"
+            ],
+            [
+              "14",
+              "TV-US"
+            ],
+            [
+              "PS",
+              "RTE"
+            ],
+            [
+              "14",
+              "DJCTQ"
+            ],
+            [
+              "B15",
+              "RTC"
+            ]
+          ],
+          "showImage": "https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/2315892/Japanese/2315892_Japanese_ShowKeyart_106133ec-f4e2-4d0f-9027-d18630b60d26.jpg",
+          "episodeSlug": "jobless-reincarnation",
+          "runtime": "23:40",
+          "seasonOrder": 1.0,
+          "episodeName": "Jobless Reincarnation",
+          "titleName": "Mushoku Tensei: Jobless Reincarnation",
+          "titleExternalId": "MJR"
+        }
+      },
+      "mostRecentSvod": {
+        "image": "https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/2315884/Japanese/2315884_Japanese_KeyArt-OfficialVideoImage_d2d859bc-e06e-4a91-9402-5a2623a1d414.jpg",
+        "siblingStartTimestamp": "1610899200",
+        "devices": [
+          "All"
+        ],
+        "availId": 617218,
+        "distributor": "FunimationVenue",
+        "quality": "HD 1080",
+        "endTimestamp": "2145916800",
+        "mediaCategory": "episode",
+        "isPromo": true,
+        "siblingType": "A-VOD",
+        "version": "Simulcast",
+        "territory": "Canada - English speaking",
+        "startDate": "2021-01-10 16:00:00+00:00",
+        "endDate": "2038-01-01 00:00:00+00:00",
+        "subscriptionRequired": false,
+        "versionId": 32398,
+        "tier": "All",
+        "purchase": "SVOD",
+        "startTimestamp": "1610294400",
+        "language": "Japanese",
+        "itemTitle": "Jobless Reincarnation",
+        "ids": {
+          "externalSeasonId": "MJR-S1-1",
+          "externalAsianId": "MJRJPN0001",
+          "externalShowId": "MJR",
+          "externalEpisodeId": "MJR0001",
+          "externalEnglishId": "MJRENG0001",
+          "externalAlphaId": "MJRSIM0001"
+        },
+        "experience": 1321634,
+        "siblingEndTimestamp": "2145916800",
+        "item": {
+          "seasonTitle": "Season 1",
+          "seasonId": 1311429,
+          "episodeOrder": 1.0,
+          "episodeSlug": "jobless-reincarnation",
+          "created": "2020-12-18",
+          "titleSlug": "mushoku-tensei-jobless-reincarnation",
+          "episodeNum": "1",
+          "episodeId": 1311430,
+          "titleId": 1311428,
+          "seasonNum": "1",
+          "ratings": [
+            [
+              "12",
+              "zw-movies"
+            ],
+            [
+              "14",
+              "CBSC"
+            ],
+            [
+              "14",
+              "TV-US"
+            ],
+            [
+              "PS",
+              "RTE"
+            ],
+            [
+              "14",
+              "DJCTQ"
+            ],
+            [
+              "B15",
+              "RTC"
+            ]
+          ],
+          "showImage": "https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/2315892/Japanese/2315892_Japanese_ShowKeyart_106133ec-f4e2-4d0f-9027-d18630b60d26.jpg",
+          "titleName": "Mushoku Tensei: Jobless Reincarnation",
+          "runtime": "23:40",
+          "episodeName": "Jobless Reincarnation",
+          "seasonOrder": 1.0,
+          "titleExternalId": "MJR"
+        }
+      },
+      "contentType": "episode",
+      "mostRecentAvodEngAllTerrEndTimestamp": 0,
+      "ids": {
+        "externalShowId": "MJR",
+        "externalSeasonId": "MJR-S1-1",
+        "externalEpisodeId": "MJR0001"
+      },
+      "mostRecentAvodEngAllTerrStartTimestamp": 0,
+      "altAvail": "most_recent_avod_jpn_ca",
+      "synopsis": "A 34-year-old unemployed recluse get hit by a truck... and wakes up as a newborn baby in a fantasy world! With loving parents, a lifetime of regrets, and a beginner's magic textbook, he sets out to make the most of his second chance at life.",
+      "mostRecentAvodEngCaEndTimestamp": 0,
+      "audio": [
+        "Japanese"
+      ],
+      "mostRecentAvod": {
+        "image": "https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/2315884/Japanese/2315884_Japanese_KeyArt-OfficialVideoImage_d2d859bc-e06e-4a91-9402-5a2623a1d414.jpg",
+        "siblingStartTimestamp": "1610294400",
+        "devices": [
+          "All"
+        ],
+        "availId": 617219,
+        "distributor": "FunimationVenue",
+        "quality": "HD 1080",
+        "endTimestamp": "2145916800",
+        "mediaCategory": "episode",
+        "isPromo": true,
+        "siblingType": "SVOD",
+        "version": "Simulcast",
+        "territory": "Canada - English speaking",
+        "startDate": "2021-01-17 16:00:00+00:00",
+        "endDate": "2038-01-01 00:00:00+00:00",
+        "versionId": 32398,
+        "tier": "All",
+        "purchase": "A-VOD",
+        "startTimestamp": "1610899200",
+        "language": "Japanese",
+        "itemTitle": "Jobless Reincarnation",
+        "ids": {
+          "externalSeasonId": "MJR-S1-1",
+          "externalAsianId": "MJRJPN0001",
+          "externalShowId": "MJR",
+          "externalEpisodeId": "MJR0001",
+          "externalEnglishId": "MJRENG0001",
+          "externalAlphaId": "MJRSIM0001"
+        },
+        "experience": 1321634,
+        "siblingEndTimestamp": "2145916800",
+        "item": {
+          "seasonTitle": "Season 1",
+          "seasonId": 1311429,
+          "episodeOrder": 1.0,
+          "episodeSlug": "jobless-reincarnation",
+          "created": "2020-12-18",
+          "titleSlug": "mushoku-tensei-jobless-reincarnation",
+          "episodeNum": "1",
+          "episodeId": 1311430,
+          "titleId": 1311428,
+          "seasonNum": "1",
+          "ratings": [
+            [
+              "12",
+              "zw-movies"
+            ],
+            [
+              "14",
+              "CBSC"
+            ],
+            [
+              "14",
+              "TV-US"
+            ],
+            [
+              "PS",
+              "RTE"
+            ],
+            [
+              "14",
+              "DJCTQ"
+            ],
+            [
+              "B15",
+              "RTC"
+            ]
+          ],
+          "showImage": "https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/2315892/Japanese/2315892_Japanese_ShowKeyart_106133ec-f4e2-4d0f-9027-d18630b60d26.jpg",
+          "titleName": "Mushoku Tensei: Jobless Reincarnation",
+          "runtime": "23:40",
+          "episodeName": "Jobless Reincarnation",
+          "seasonOrder": 1.0,
+          "titleExternalId": "MJR"
+        }
+      }
+    }
+  ],
+  "facets": {
+    "txDate": [
+      [
+        "2021",
+        4
+      ]
+    ],
+    "gbAccess": [
+      [
+        "svod_japanese",
+        4
+      ],
+      [
+        "dfov_japanese",
+        4
+      ],
+      [
+        "vod_japanese",
+        3
+      ],
+      [
+        "a",
+        3
+      ]
+    ],
+    "genres": [
+      [
+        "Fantasy",
+        4
+      ],
+      [
+        "Action/Adventure",
+        4
+      ]
+    ],
+    "ieAccess": [
+      [
+        "svod_japanese",
+        4
+      ],
+      [
+        "dfov_japanese",
+        4
+      ],
+      [
+        "vod_japanese",
+        3
+      ],
+      [
+        "a",
+        3
+      ]
+    ],
+    "nzAccess": [
+      [
+        "svod_japanese",
+        4
+      ],
+      [
+        "dfov_japanese",
+        4
+      ],
+      [
+        "vod_japanese",
+        3
+      ],
+      [
+        "a",
+        3
+      ]
+    ],
+    "usAccess": [
+      [
+        "svod_japanese",
+        4
+      ],
+      [
+        "dfov_japanese",
+        4
+      ],
+      [
+        "vod_japanese",
+        3
+      ],
+      [
+        "a",
+        3
+      ]
+    ],
+    "auAccess": [
+      [
+        "svod_japanese",
+        4
+      ],
+      [
+        "dfov_japanese",
+        4
+      ],
+      [
+        "vod_japanese",
+        3
+      ],
+      [
+        "a",
+        3
+      ]
+    ],
+    "caAccess": [
+      [
+        "svod_japanese",
+        4
+      ],
+      [
+        "dfov_japanese",
+        4
+      ],
+      [
+        "vod_japanese",
+        3
+      ],
+      [
+        "a",
+        3
+      ]
+    ],
+    "audio": [],
+    "type": [
+      [
+        "episode",
+        4
+      ]
+    ]
+  },
+  "total": 4
+}

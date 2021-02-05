@@ -1,0 +1,52 @@
+{
+  "count": 2,
+  "items": {
+    "hits": [
+      {
+        "ratings": "TV14",
+        "description": "When a 34-year-old underachiever gets run over by a bus, his story doesn't end there. Reincarnated as an infant, Rudy will use newfound courage, friends, and magical abilities to embark on an epic adventure!",
+        "title": "Mushoku Tensei: Jobless Reincarnation",
+        "image": {
+          "appleHorizontalBannerMovie": "",
+          "appleHorizontalBannerShow": "",
+          "applePosterCover": "",
+          "appleSquareCover": "https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/2315884/Latvian/2315884_Latvian_AppleSquareCover_e7390dee-eafe-46fb-a664-35d6de7c9d68.jpg",
+          "backgroundImageAppletvfiretv": "https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/2315892/Japanese/2315892_Japanese_ShowBackground_86bc2ba3-41d3-47db-a822-083c80f70a7c.jpg",
+          "backgroundImageXbox_360": "https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/2315892/Japanese/2315892_Japanese_ShowBackgroundGreyXbox360_4105a113-8ef7-40f0-8f7c-a31745107629.jpg",
+          "continueWatchingDesktop": "https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/2315892/Japanese/2315892_Japanese_ContinueWatchingDesktop_800efadd-ebc9-4bb3-b71b-2c9cfe2495e7.jpg",
+          "continueWatchingMobile": "https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/2315892/Japanese/2315892_Japanese_ContinueWatchingMobile_125c05cc-9a30-4449-8962-573d9ee282e8.jpg",
+          "featuredSpotlightShowPhone": "https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/2315892/Japanese/2315892_Japanese_FeaturedSpotlightShowPhone_986a15e2-753c-4f75-ba7b-6c9c26dd4a4c.jpg",
+          "featuredSpotlightShowTablet": "https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/2315892/Japanese/2315892_Japanese_FeaturedSpotlightShowTablet_a90638e3-a80f-4582-ac1f-b28a7a2860c8.jpg",
+          "newShowDetailHero": "https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/2315892/Japanese/2315892_Japanese_NewShowDetailHero_48a9e53e-5763-4546-b822-46a23217fcea.jpg",
+          "newShowDetailHeroPhone": "https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/2315892/Japanese/2315892_Japanese_NewShowDetailHeroPhone_16838fad-9bc1-478b-97cd-7bb6c7c41972.jpg",
+          "showBackgroundSite": "https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/2315892/Japanese/2315892_Japanese_ShowBackgroundSite_0d150657-59c3-4cbf-adeb-a74b7827d08a.jpg",
+          "showDetailBoxArtPhone": "https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/2315892/Japanese/2315892_Japanese_ShowDetailHeroPhone_075dbfd4-af84-4671-acc7-e61cff631c72.jpg",
+          "showDetailBoxArtTablet": "https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/2315892/Japanese/2315892_Japanese_ShowDetailHeroTablet_9b3cf7c0-cfd0-4782-898e-7f5f501a9325.jpg",
+          "showDetailBoxArtXbox_360": "https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/2315892/Japanese/2315892_Japanese_ShowDetailHeroXbox360_0ae0d2f6-b8b5-4af6-98f5-b68c55d5919d.jpg",
+          "showDetailHeaderDesktop": "https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/2315892/Japanese/2315892_Japanese_ShowDetailHeaderDesktop_6ca17cd7-2001-445a-afe2-cda34c93bbef.jpg",
+          "showDetailHeaderMobile": "https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/2315884/Latvian/2315884_Latvian_ShowDetailHeaderMobile_b883a9b9-fae8-4635-bc4d-19078f48f056.jpg",
+          "showDetailHeroDesktop": "",
+          "showDetailHeroSite": "",
+          "showKeyart": "https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/2315892/Japanese/2315892_Japanese_ShowKeyart_106133ec-f4e2-4d0f-9027-d18630b60d26.jpg",
+          "showLogo": "https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/2315892/Japanese/2315892_Japanese_ShowLogo_6b28fdf3-8d8f-4a13-b4a8-6cbc87021dab.png",
+          "showMasterKeyArt": "",
+          "showThumbnail": "https://derf9v1xhwwx1.cloudfront.net/image/upload/oth/FunimationStoreFront/2315892/Japanese/2315892_Japanese_ShowThumbnail_a345fb76-70b2-4b1e-a4d1-bd567cc91c20.jpg"
+        },
+        "starRating": 0.0,
+        "slug": "mushoku-tensei-jobless-reincarnation",
+        "languages": [
+          "Japanese"
+        ],
+        "synopsis": "When a 34-year-old underachiever gets run over by a bus, his story doesn't end there. Reincarnated as an infant, Rudy will use newfound courage, friends, and magical abilities to embark on an epic adventure!",
+        "quality": {
+          "height": 1080,
+          "quality": "HD"
+        },
+        "id": "1311428",
+        "txDate": 2021
+      }
+    ]
+  },
+  "limit": "1",
+  "offset": "0"
+}
