@@ -19,9 +19,8 @@
   <%= for episode <- @show.episodes do %>
     <entry>
       <title>Episode <%= episode.number %> - <%= episode.title %></title>
-      <link href="<%= episode.url %>"/>
+      <link rel="alternate" href="<%= episode.url %>"/>
       <id><%= episode.url %></id>
-      <content type="text"><%= episode.synopsis %></content>
       <summary type="text"><%= episode.synopsis %></summary>
       <updated><%= updated_iso8601(episode) %></updated>
       <published><%= updated_iso8601(episode) %></published>
