@@ -31,6 +31,21 @@ defmodule AtomizerWeb.ConnCase do
     end
   end
 
+  @doc """
+  Asserts the given status code, that we have an html response and
+  returns the response body if one was set or sent.
+
+  ## Examples
+
+      assert html_response(conn, 200) =~ "<html>"
+  """
+  @spec xml_response(Conn.t(), status :: integer | atom) :: String.t() | no_return
+  def xml_response(conn, status) do
+    body = Phoenix.ConnTest.response(conn, status)
+    _ = Phoenix.ConnTest.response_content_type(conn, :xml)
+    body
+  end
+
   setup _tags do
     {:ok, conn: Phoenix.ConnTest.build_conn()}
   end

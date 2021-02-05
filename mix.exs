@@ -44,7 +44,10 @@ defmodule Atomizer.MixProject do
       # HTTP
       {:tesla, "~> 1.4.0"},
       {:hackney, "~> 1.10"},
-      {:castore, "~> 0.1.0"}
+      {:castore, "~> 0.1.0"},
+
+      # Test
+      {:mock, "~> 0.3", only: :test}
     ]
   end
 

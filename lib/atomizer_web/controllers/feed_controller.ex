@@ -6,9 +6,9 @@ defmodule AtomizerWeb.FeedController do
   def index(conn, %{"show" => show_url}) do
     uri = URI.parse(show_url)
     provider = get_provider(uri.host)
-    items = Funimation.scrape(show_url)
+    show = Funimation.scrape(show_url)
 
-    render(conn, "index.xml", provider: provider, items: items)
+    render(conn, "index.xml", provider: provider, show: show)
   end
 
   defp get_provider("www.funimation.com"), do: :funimation

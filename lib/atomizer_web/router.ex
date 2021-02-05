@@ -1,12 +1,13 @@
 defmodule AtomizerWeb.Router do
   use AtomizerWeb, :router
 
-  pipeline :api do
-    plug :accepts, ["json"]
+  pipeline :atom do
+    # plug :accepts, ["json"]
   end
 
-  scope "/api", AtomizerWeb do
-    pipe_through :api
+  scope "/", AtomizerWeb do
+    pipe_through [:atom]
+    get "/feed", FeedController, :index
   end
 
   # Enables LiveDashboard only for development
