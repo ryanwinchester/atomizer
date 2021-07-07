@@ -73,6 +73,7 @@ jobs:
   deploy:
     name: Deploy
     needs: [test]
+    if: contains('refs/heads/master', github.ref)
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
