@@ -1,59 +1,66 @@
-# syntax=docker/dockerfile:experimental
-FROM ubuntu:18.04 AS build
+# Using the Hex.pm docker images. You have much better version control for
+# Elixir, Erlang and Alpine.
+#
+#   - https://hub.docker.com/r/hexpm/elixir/tags
+#   - Ex: hexpm/elixir:1.11.2-erlang-23.3.2-alpine-3.13.3
+#
+# Debugging Notes:
+#
+#   docker run -it --rm atomizer /bin/ash
 
-ENV MIX_ENV=prod \
-    LANG=C.UTF-8
+###
+### Fist Stage - Building the Release
+###
+FROM hexpm/elixir:1.12.1-erlang-24.0.1-alpine-3.13.3 AS build
 
-RUN apt-get update && apt-get install -y wget gnupg2 git \
-    && wget https://packages.erlang-solutions.com/erlang-solutions_2.0_all.deb \
-    && dpkg -i erlang-solutions_2.0_all.deb \
-    && apt-get update \
-    && apt-get install -y openssl \
-    && apt-get install -y esl-erlang \
-    && apt-get install -y elixir \
-    && mix local.hex --force \
-    && mix local.rebar --force
+# install build dependencies
+RUN apk add --no-cache build-base npm
 
-ENV GOTH_CREDENTIALS=/app/gcp-credentials.json
+# prepare build dir
+WORKDIR /app
 
-RUN mkdir /app
+# extend hex timeout
+ENV HEX_HTTP_TIMEOUT=20
+
+# install hex + rebar
+RUN mix local.hex --force && \
+    mix local.rebar --force
+
+# set build ENV as prod
+ENV MIX_ENV=prod
+
+# Copy over the mix.exs and mix.lock files to load the dependencies. If those
+# files don't change, then we don't keep re-fetching and rebuilding the deps.
+COPY mix.exs mix.lock ./
+COPY config config
+
+RUN mix deps.get --only prod && \
+    mix deps.compile
+
+# copy source here if not using TailwindCSS
+COPY lib lib
+
+# compile and build release
+COPY rel rel
+RUN mix do compile, release
+
+###
+### Second Stage - Setup the Runtime Environment
+###
+
+# prepare release docker image
+FROM alpine:3.13.3 AS app
+RUN apk add --no-cache libstdc++ openssl ncurses-libs
 
 WORKDIR /app
 
-COPY . .
+RUN chown nobody:nobody /app
 
-# Fetch the application dependencies and build the application
-RUN --mount=type=secret,id=prod_secret,dst=/app/config/prod.secret.exs \
-    --mount=type=secret,id=gcp_credentials,dst=/app/gcp-credentials.json \
-    --mount=type=secret,id=hex_key,dst=/app/hex_key \
-    export HEX_KEY=$(cat /app/hex_key) && \
-    mix hex.organization auth cariq --key $HEX_KEY && \
-    mix deps.get && mix release
+USER nobody:nobody
 
+COPY --from=build --chown=nobody:nobody /app/_build/prod/rel/atomizer ./
 
-# ------------------------------------------------------------------------------
-# Application container
-# ------------------------------------------------------------------------------
+ENV HOME=/app
+ENV MIX_ENV=prod
 
-FROM ubuntu:18.04
-
-ENV LANG=C.UTF-8
-
-RUN apt-get update && apt-get install -y wget openssl \
- && mkdir -p /opt/app/etc
-
-WORKDIR /opt/app
-
-COPY --from=build /app/_build/prod/rel/cariq_fuel/ .
-COPY ./bin ./bin
-COPY ./entrypoint.sh /
-
-RUN chmod +x /entrypoint.sh
-
-HEALTHCHECK --interval=30s --timeout=3s \
-    CMD ./bin/healthz || exit 1
-
-EXPOSE 50051
-EXPOSE 8443
-
-ENTRYPOINT ["/entrypoint.sh"]
+CMD ["bin/atomizer", "start"]
